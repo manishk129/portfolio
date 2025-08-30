@@ -10,8 +10,8 @@ export const DATA = {
   description:
     "SDE @ Amazon | Technovert",
   summary:
-    "I’m a Software Engineer working at Amazon. I'm based in Bangalore, IND and have 1.5+ years of experience in designing and building scalable, high-performant full stack web applications, microservices, and backend systems. My work spans designing API-driven microservices architectures that power SaaS platforms, developing robust backend systems capable of handling complex workflows, and delivering end-to-end full-stack solutions that bring ideas into production. I’ve also contributed to open source through projects like QR-PDF, a Python package for generating multiple QR codes with customizable PDF layouts. With a strong foundation in system design, scalable architectures, and modern development practices, I thrive on turning ambitious ideas into production-ready software that delivers real impact.",
-  avatarUrl: "/me.jpeg",
+    "I’m a Software Engineer working at Amazon. I'm based in Bangalore, IND and have 1.5+ years of experience in designing and building scalable, high-performant full stack web applications, microservices, and backend systems. My work spans designing API-driven microservices architectures that power SaaS platforms, developing robust backend systems capable of handling complex workflows, and delivering end-to-end full-stack solutions that bring ideas into production. I’ve also contributed to open source through projects like QR-PDF, a Python package for generating multiple QR codes with customizable PDF layouts. \n \n With a strong foundation in system design, scalable architectures, and modern development practices, I thrive on turning ambitious ideas into production-ready software that delivers real impact.",
+  avatarUrl: "/manish.jpg",
   skills: [
     "React",
     "Next.js",
@@ -129,14 +129,6 @@ export const DATA = {
       logoUrl: "/nitsikkim.png",
       start: "2020",
       end: "2024",
-    },
-    {
-      school: "Central Public School, Chapra",
-      href: "https://cpschapra.com/",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
-      logoUrl: "/cps.png",
-      start: "2017",
-      end: "2019",
     }
   ],
   projects: [
